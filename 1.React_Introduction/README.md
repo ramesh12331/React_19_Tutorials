@@ -57,15 +57,7 @@ React follows a **component-based architecture**, meaning UIs are built using sm
 
 ### Example Layout Structure
 
-+----------------------+
-|        Header        |
-+----------+-----------+
-|  Aside   |   Main    |
-|          |  Content  |
-|          |           |
-+----------+-----------+
-|        Footer        |
-+----------------------+
+https://chatgpt.com/s/m_694e999c2d1c8191b0e5d1168187c91f
 
 
 React integrates well with tools such as:
