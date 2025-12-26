@@ -55,16 +55,8 @@ React follows a **component-based architecture**, meaning UIs are built using sm
 - Easy to compose components to build complex layouts
 - Improves maintainability and scalability
 
-### Example Layout Structure
 
-
-[![Try ChatGPT Example](https://img.shields.io/badge/ChatGPT-Open%20Example-brightgreen)](https://chatgpt.com/s/m_694e999c2d1c8191b0e5d1168187c91f)
-
-Try the interactive ChatGPT example for this project!
-
-
-
-React integrates well with tools such as:
+### React integrates well with tools such as:
 - React
 - Next.js
 - TypeScript
